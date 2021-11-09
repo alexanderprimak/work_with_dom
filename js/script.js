@@ -93,10 +93,3 @@ window.addEventListener('DOMContentLoaded', () => {
 	changeTextContent(genre, 'драма');
 	removeElement(adv);
 });
-
-// for (let i = 0; i < movieDB.movies.length; i++) {
-// 	movieList.innerHTML += ` <li class="promo__interactive-item">${i + 1}. ${
-// 		movieDB.movies[i]
-// 	}
-//       <div class="delete"></div></li>`;
-// }
